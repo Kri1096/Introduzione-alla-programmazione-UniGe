@@ -1,8 +1,9 @@
 // Scrivere un programma che legge due interi e ne stampa la somma.
+// Primo metodo
 
 #include <iostream>
 using namespace std;
-int main () {
+int main() {
   int a, b;
   cout << "Inserire due numeri interi: \n";
   cin >> a >> b;
